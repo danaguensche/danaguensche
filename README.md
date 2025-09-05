@@ -1,4 +1,4 @@
-# Hi, ich bin Dana, 24 🐈
+# Hi, ich bin Dana 🐈
 
 - Im 2. Lehrjahr zur Fachinformatikerin für Anwendungsentwicklung  
 - Besonders interessiert an **Fullstack-Entwicklung (Laravel + Vue)**  
